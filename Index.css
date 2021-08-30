@@ -1,0 +1,49 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+}
+
+body{
+  background:Turquoise ;
+} 
+
+
+.header h1,h3{
+    margin: 24px;
+  
+}
+.header h1{
+    font-family:garamond;
+}
+.header{
+    line-height:0.1;
+    border: 1px solid #ddd;
+    background: #eee;
+}
+.header h3{
+         font-size: 15px;
+}
+
+.main{
+  
+  background:#ddd;
+}
+.menuitem{
+   border:1px solid #fff;
+   padding: 10px;
+  
+}
+.text img{ 
+    margin: 0 auto 0 auto
+}
+
+.div2 input{
+        width: 290px;
+        height: 60px;
+}
+.div2{
+     margin-left: 1px;
+}
